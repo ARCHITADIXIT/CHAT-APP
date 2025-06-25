@@ -1,0 +1,7 @@
+FIRST GO INSIDE THE chat-app-backend
+BACKEND STARTED ON PORT 8080
+cmd - mvn spring-boot:run
+
+NOW GO INSIDE THE front-chat
+OPEN NEW TERMINAL
+cmd - npm start
